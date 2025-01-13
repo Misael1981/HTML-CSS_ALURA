@@ -25,4 +25,4 @@ Os combinadores CSS permitem que você selecione elementos com base em suas rela
 - ### [artigo sobre seletores avançados em CSS escrito pelo Vinicius Neves](https://www.alura.com.br/artigos/css-seletores-avancados-aplicacoes-web)
 
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

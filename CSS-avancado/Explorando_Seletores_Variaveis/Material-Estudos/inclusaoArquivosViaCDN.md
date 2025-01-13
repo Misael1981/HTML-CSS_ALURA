@@ -67,4 +67,4 @@ Normalizar vs. Redefinir: A escolha depende de suas necessidades específicas.
 
 Para a maioria dos projetos, usar uma normalização de CSS via CDN é uma boa prática. O Normalize CSS oferece uma base mais sólida e consistente do que o reset CSS, e o CDN melhora o desempenho.
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

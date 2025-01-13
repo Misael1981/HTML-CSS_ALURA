@@ -78,4 +78,4 @@ Esses seletores te dão mais poderes e liberdade na hora de estilizar elementos 
 
 Se você quiser mergulhar em outros tipos de seletores acesse este [link da documentação](https://www.w3schools.com/cssref/css_selectors.php#gsc.tab=0&gsc.q=user-valid).
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

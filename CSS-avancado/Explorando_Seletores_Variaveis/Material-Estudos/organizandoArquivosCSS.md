@@ -61,4 +61,4 @@ styles/
 
 Ao utilizar um arquivo principal com `@import`, você estará adotando uma prática recomendada para organizar seus estilos CSS, facilitando a manutenção e promovendo a reutilização de código.
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

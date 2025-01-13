@@ -16,4 +16,4 @@ Com esses novos seletores, não é mais necessário escrever um código com esta
 
 Estes seletores são relativamente novos e vale a pena checar a compatibilidade deles com navegadores mais antigos. Se você quiser se aprofundar nesses novos seletores, vou deixar um [artigo muito legal do blog web.dev mostrando o uso e permitindo que você interaja em tempo real com elementos com esses seletores](https://web.dev/articles/user-valid-and-user-invalid-pseudo-classes?hl=pt-br).
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

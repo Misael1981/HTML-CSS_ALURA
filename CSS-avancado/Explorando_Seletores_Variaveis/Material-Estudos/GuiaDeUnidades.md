@@ -1,6 +1,6 @@
 # Guia de Unidades no CSS
 
-<img src="./img/UnidadesMedida-01.webp">
+<img src="../img/UnidadesMedida-01.webp">
 
 Quando começamos a lidar com desenvolvimento web, mais especificamente **HTML e CSS**, é bastante comum que fiquemos presos às ferramentas que já conhecemos e temos familiaridade.
 
@@ -36,11 +36,11 @@ Um detalhe que poucos conhecem é que na verdade, o píxel do CSS **NÃO** é re
 
 A definição de píxel de referência no CSS é o ângulo visual(0.0213deg) de um píxel em um dispositivo com a densidade de 96dpi a uma distancia de um braço do leitor (28 polegadas), veja na imagem abaixo:
 
-<img src="./img/UnidadesMedida-02.webp">
+<img src="../img/UnidadesMedida-02.webp">
 
 O benefício desse píxel de referência é que ele leva a proximidade da tela em consideração, ao usarmos um celular que seguramos próximos de nós, o píxel de referência terá o tamanho semelhante ao de um monitor mais distante de nós, por exemplo.
 
-<img src="./img/UnidadesMedida-03.webp">
+<img src="../img/UnidadesMedida-03.webp">
 
 Portanto, não existe esse papo de que o píxel é "perfeito". Só se estivermos desenvolvendo um site para um mesmo dispositivo, com um mesmo tamanho de tela e que usa o mesmo navegador, mas sabemos que não é assim que funciona no mundo lá fora!
 
@@ -50,7 +50,7 @@ Um dos aspectos mais importantes para esses Web Designers é a **escalabilidade 
 
 De um lado, a ideia de se manter o mesmo aspecto (tamanho) em diversos dispositivos pode parecer atrativa (cuidado com o píxel de referência!), mas do outro lado, temos consequências negativas quando estamos lidando com dispositivos de baixa resolução (blurry rendering).  
 
-<img src="./img/UnidadesMedida-04.webp">
+<img src="../img/UnidadesMedida-04.webp">
 
 ###  Points (pt)
 
@@ -182,7 +182,7 @@ Talvez você nunca tenha ouvido falar dessa unidade do CSS, mas ela existe. Dife
 
 Como o browser sabe esse valor? Esse valor pode vir diretamente com a fonte, o browser pode medir o caractere em caixa baixa (lower case) e se esses dois não funcionarem, o browser estipula um valor de **0.5em** para **1ex**.  
 
-<img src="./img/UnidadesMedida-05.webp">
+<img src="../img/UnidadesMedida-05.webp">
 
 Com isso, se quando mudamos o tamanho da fonte (depende do elemento) o **em** e o **rem** mudam, dessa vez, quando alteramos completamente a fonte, o **ex** mudará. O uso dessa unidade está mais presente em ajustes tipográficos, nos dando um controle mais preciso quando o padrão definido para algumas tags não se adéqua corretamente ao nosso layout.
 
@@ -194,7 +194,7 @@ Existe uma discussão antiga onde se debateu bastante sobre essa unidade e o que
 
 É comum acharmos definições que dizem que a frase acima se aplica para qualquer fonte, porém isso está errado. Como mencionei acima, a regra de **1ch = 1 caractere** se aplica apenas se a fonte usada for **monospace** (largura fixa). Fontes com a largura variável, qualquer caractere pode ser mais largo ou menos largo que o zero ("0"), como podemos ver na imagem abaixo:  
 
-<img src="./img/UnidadesMedida-06.webp">
+<img src="../img/UnidadesMedida-06.webp">
 
 Como podemos analisar, a tipografia Courier (monospace) obedece a regra acima, porém as outras duas não! O que podemos tirar após observações é que normalmente 1ch é 20% - 30% mais largo, porém isso não é uma verdade absoluta e deve ser observado para cada fonte que você deseja aplicar. Por isso, tome cuidado com o uso!
 
@@ -246,4 +246,4 @@ No mais, espero de coração que esse post tenha agregado algum conhecimento e f
 
 - ### [Artido de Paulo Scalercio para a Alura](https://www.alura.com.br/artigos/guia-de-unidades-no-css?srsltid=AfmBOopWcWUh6zLswarvLMq963bywyKaaKskoSQHwRMUyuuOmtaJvKaS)
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

@@ -49,4 +49,4 @@ button.especial {
 
 Nesse caso, o botão com a classe `.especial` terá o texto na cor vermelha, pois `button.especial` é o seletor mais específico. Entender essas regras de precedência vai te salvar de muita dor de cabeça na hora de estilizar seus sites! Por isso, se você quiser se aprofundar no assunto eu vou deixar este [artigo da plataforma Medium](https://medium.com/emanuelg-blog/entendendo-a-preced%C3%AAncia-de-estilo-em-css-especificidade-heran%C3%A7a-e-efeito-cascata-a437c4929173) sobre especificidade e precedência de estilos no CSS do **Emanuel G de Souza**.
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

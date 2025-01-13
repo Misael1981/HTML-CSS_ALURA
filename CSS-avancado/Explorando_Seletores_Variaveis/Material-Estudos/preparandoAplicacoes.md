@@ -56,4 +56,4 @@ body {
 
 Declarar widthe heightcomo 100% não bodyé uma prática comum em CSS, pois fornece uma base sólida para construir layouts responsivos e flexíveis. Ao entender os fundamentos por trás dessa técnica, você estará melhor preparado para criar páginas web modernas e adaptáveis.
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

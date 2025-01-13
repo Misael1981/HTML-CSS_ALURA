@@ -32,4 +32,4 @@ Nas etapas iniciais do projeto é interessante avaliar se o seu projeto dispõe 
 
 - ### [Quer se aprofundar no assunto? Confere este artigo do Carlos Henrique Filho na plataforma do Medium falando sobre tokens de design.](https://brasil.uxdesign.cc/o-que-s%C3%A3o-design-tokens-cd408431727d)
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

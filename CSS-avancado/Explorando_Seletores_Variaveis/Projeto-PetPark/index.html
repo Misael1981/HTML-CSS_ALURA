@@ -19,6 +19,8 @@
     rel="stylesheet">
     <!-- ===== CSS ===== -->
      <link rel="stylesheet" href="./style.css">
+     <!-- ===== Js ===== -->
+      
     <title>Petpark</title>
   </head>
   <body>
@@ -150,55 +152,15 @@
       <section class="ofertas">
         <h2 class="ofertas-titulo">Super ofertas:</h2>
 
-        <div class="container">
-          <ul class="carrossel">
-            <li class="carrossel-item">
-              <img
-                class="carrossel-imagem"
-                src="./assets/imagens/biskrock.png"
-                alt="Biscoito Pedigree Biscrok"
-              />
-              <h3 class="carrossel-nome">Biscoito Pedigree Biscrok</h3>
-              <p class="carrossel-descricao">Multi para Cães Adultos 500g</p>
-              <span class="carrossel-preco">R$ 19,99</span>
-            </li>
-            <li class="carrossel-item">
-              <img
-                class="carrossel-imagem"
-                src="./assets/imagens/golden-especial.png"
-                alt="Ração Golden Special"
-              />
-              <h3 class="carrossel-nome">Ração Golden Special</h3>
-              <p class="carrossel-descricao">
-                Cães Adultos Sabor Frango e Carne 15kg
-              </p>
-              <span class="carrossel-preco">R$ 149,00</span>
-            </li>
-            <li class="carrossel-item">
-              <img
-                class="carrossel-imagem"
-                src="./assets/imagens/pipicat.png"
-                alt="Areia Higiênica Pipicat"
-              />
-              <h3 class="carrossel-nome">Areia Higiênica Pipicat</h3>
-              <p class="carrossel-descricao">Classic para Gatos 4 Kg</p>
-              <span class="carrossel-preco">R$ 45,00</span>
-            </li>
-            <li class="carrossel-item">
-              <img
-                class="carrossel-imagem"
-                src="./assets/imagens/arranhador.png"
-                alt="Arranhador São Benedito Pet"
-              />
-              <h3 class="carrossel-nome">Arranhador São Benedito Pet</h3>
-              <p class="carrossel-descricao">Redondo com pluma e mola rosa</p>
-              <span class="carrossel-preco">R$ 59,90</span>
-            </li>
-            <div class="carrossel-button">
-              <button class="carrossel-nav">←</button>
-              <button class="carrossel-nav">→</button>
-            </div>
+        <div class="container container-carrossel">
+          <ul class="carrossel">       
           </ul>
+          <div class="carrossel-button">
+            <button class="carrossel-nav prev">←</button>
+            <button class="carrossel-nav next">→</button>
+          </div>
+        </div>
+      </section>
         </div>
       </section>
       <!-- ===== MARCAS PARCEIRAS ===== -->
@@ -308,5 +270,6 @@
         >
       </div>
     </footer>
+    <script src="./assets/Js/script.js"></script>
   </body>
 </html>

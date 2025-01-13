@@ -29,4 +29,4 @@ Com isso, você consegue alcançar o efeito desejado sem adicionar classes extra
 
 Elas ajudam a criar interações e a estilizar elementos de maneiras que seriam complicadas com apenas classes e IDs. Se quiser dar um mergulho nos tipos de seletores, pseudo-classes e pseudo-elementos, clica neste [link que ele irá te levar para a documentação do W3Schools](https://www.w3schools.com/cssref/css_selectors.php).
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)

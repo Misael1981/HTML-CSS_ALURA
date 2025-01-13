@@ -46,4 +46,4 @@ Os “enésimos seletores” do CSS são poderosos recursos que permitem aplicar
 
 Ficou curioso sobre a existência desses seletores? Dá uma olhada na [documentação aqui neste link](https://www.w3schools.com/cssref/css_selectors.php) e veja se descobre um novo.
 
-### [Menu - Explorando seletores e utilizando variáveis](./menu.md)
+### [Menu - Explorando seletores e utilizando variáveis](../menu.md)
