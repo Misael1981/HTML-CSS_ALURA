@@ -7,14 +7,18 @@
     width: 100%;
     padding: var(--padding-4xl) 0;
     background-color: var(--cor-secundaria-light);
+    margin: 0 auto;
 }
 
 .newsletter h2 {
     color: var(--cor-primaria-light);
+    font-size: var(--fonte-size-l);
+    text-align: center;
 }
 
 .newsletter p {
     font-family: var(--fonte-size-xm);
+    text-align: center;
 }
 
 .formulario {

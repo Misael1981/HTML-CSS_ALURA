@@ -19,7 +19,6 @@
     rel="stylesheet">
     <!-- ===== CSS ===== -->
      <link rel="stylesheet" href="./style.css">
-     <!-- ===== Js ===== -->
       
     <title>Petpark</title>
   </head>
@@ -27,7 +26,16 @@
     <!-- ===== HEADER ===== -->
     <header class="cabecalho">
       <div class="alinhamento-cabecalho container">
-        <img src="./assets/logo.png" alt="Logotipo do Petpark" />
+        <div class="alinhamento-cabecalho__image">
+          <img src="./assets/logo.png" alt="Logotipo do Petpark" />
+        </div>
+        <div class="btn__menu-mobile">
+          <button id="btn-menu">
+            <span class="line"></span>
+            <span class="line"></span>
+            <span class="line"></span>
+          </button>
+        </div>
         <label class="label-busca" for="campo-busca">
           <input
             class="input-busca"
@@ -161,8 +169,6 @@
           </div>
         </div>
       </section>
-        </div>
-      </section>
       <!-- ===== MARCAS PARCEIRAS ===== -->
       <section class="parceiros">
         <h2 class="parceiros-titulo">Marcas parceiras</h2>
@@ -206,7 +212,7 @@
         </div>
       </section>
       <!-- ===== NEWSLETTER ===== -->
-      <section class="newsletter">
+      <section class="newsletter container">
         <h2>Assine nossa newsletter!</h2>
         <p>Cadastre-se e receba nossas promoções e novidades!</p>
         <form class="formulario">

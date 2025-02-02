@@ -1,3 +1,14 @@
+// MENU MOBILE
+
+const button = document.getElementById('btn-menu') 
+const menu = document.querySelector('.menu-lista')
+
+button.addEventListener('click', () => {
+  button.classList.toggle('active')
+  menu.classList.toggle('open')
+})
+
+
 // Arrays com os produtos
 const products = [
     {

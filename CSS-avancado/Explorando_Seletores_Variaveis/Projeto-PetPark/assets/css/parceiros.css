@@ -12,6 +12,10 @@
 .parceiros-titulo {
     color: var(--cor-primaria-light);
     margin-bottom: 1.25rem;
+
+    @media screen and (max-width: 568px) {
+        font-size: var(--fonte-size-l);
+    }
 }
 
 .lista-parceiros {
