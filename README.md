@@ -6,15 +6,21 @@
 
 ## 🚀 Tecnologias
 
-<img alt="Misael-HTML" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-<img alt="Misael-CSS" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-<img alt="Misael-SASS" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
-<img alt="Vite" height="100" width="90" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg">
+<div>
+  <img alt="Misael-HTML" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Misael-CSS" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Misael-SASS" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg">
+  <img alt="Vite" height="100" width="90" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg">
+</div>
 
 
 ## 📚 Temas abordados
 
 ### [Formação - CSS avançado: implementando designs com Grid, Flexbox e Sass](CSS-avancado/menu.md)
+
+## 🗂️ Projetos da Formação
+
+- ### [Projeto PetPark](https://petpark-xi.vercel.app/)
 
 
 <h2> 📞 Contato</h2>

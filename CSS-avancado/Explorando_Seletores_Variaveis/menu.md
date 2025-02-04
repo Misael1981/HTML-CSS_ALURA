@@ -1,6 +1,5 @@
+# CSS: explorando seletores e utilizando variáveis
 
-
-## [Voltar ao Menu - CSS avançado: implementando designs com Grid, Flexbox e Sass](../menu.md)
 
 - ### [Guia de Unidades CSS](./Material-Estudos/GuiaDeUnidades.md)
 
@@ -23,3 +22,5 @@
 - ### [Normalize CSS - Reset CSS: CDN VS Arquivos Locais e Desempenho](./Material-Estudos/inclusaoArquivosViaCDN.md)
 
 - ### [Organizando seus arquivos CSS: Uma abordagem estratégica](./Material-Estudos/organizandoArquivosCSS.md)
+
+### [Voltar ao Menu - CSS avançado: implementando designs com Grid, Flexbox e Sass](../menu.md)
