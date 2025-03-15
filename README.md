@@ -13,15 +13,15 @@
   <img alt="Vite" height="100" width="90" src="https://raw.githubusercontent.com/vitejs/vite/main/docs/public/logo.svg">
 </div>
 
-
 ## 📚 Temas abordados
 
 ### [Formação - CSS avançado: implementando designs com Grid, Flexbox e Sass](CSS-avancado/menu.md)
 
+### [Acessibilidade e tecnologias web: técnicas em HTML, CSS e JavaScript para projetos inclusivos](./Acessibilidade_tecnologias-web/menu.md)
+
 ## 🗂️ Projetos da Formação
 
 - ### [Projeto PetPark](https://petpark-xi.vercel.app/)
-
 
 <h2> 📞 Contato</h2>
 <div> 
@@ -30,11 +30,3 @@
   <a href="https://www.linkedin.com/in/misael-borges-5a5214181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
 </div>
-
-
-
-
-
-
-
-

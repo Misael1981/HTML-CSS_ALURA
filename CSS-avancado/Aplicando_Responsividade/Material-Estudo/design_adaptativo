@@ -1,0 +1,17 @@
+# Design Adaptativo
+
+Com o uso crescente de dispositivos de vários tamanhos, desde celulares até telas gigantes de smart TV’s, criar um design que funcione bem em apenas uma dessas telas não é mais suficiente. A falta de adaptação entre diferentes resoluções pode fazer com que uma página pareça mal organizada ou difícil de usar, prejudicando a experiência do usuário.
+
+O design adaptativo, pensado com layouts fluidos, resolve esse problema ao criar páginas que se ajustam automaticamente ao tamanho da tela. Isso pode ser feito usando unidades relativas como `%`, `em`, `vw`, `vh` no CSS, ao invés de valores fixos, permitindo que elementos como imagens e caixas de texto se expandem ou contraem conforme necessário.
+
+<div style="background-color: #555; padding: 20px;">
+
+Se quiser conferir como a IA pode te ajudar a criar um design adaptativo para suas aplicações, confere este [artigo da Yasmin de Matos](https://www.alura.com.br/artigos/design-adaptativo) que tá muito legal.
+
+</div>
+
+Layouts fluidos usam técnicas como flexbox e grids flexíveis e media queries para garantir que o conteúdo seja apresentado de maneira clara e acessível em qualquer dispositivo. Elementos do layout mudam de forma, reposicionam-se e redimensionam-se de acordo com o espaço disponível, priorizando a experiência do usuário, independentemente do dispositivo usado.
+
+Ficou curioso sobre o tema? Existem ainda algumas diferenças entre design responsivo e layout fluido e se você quiser saber mais, [consulte este artigo da plataforma medium](https://medium.com/@fnandaleite/entendendo-as-diferen%C3%A7as-entre-design-responsivo-adaptativo-e-mobile-first-ea3c61fc9181) falando sobre o tema.
+
+### [Voltar ao Menu - # CSS: aplique responsividade usando media queries](../menu.md)

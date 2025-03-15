@@ -9,6 +9,8 @@
 
 - ### [Curso - SASS com Vite: otimizando e modularizando seu CSS](./Sass-Vite/menu.md)
 
+- ### [Curso - CSS: aplique responsividade usando media queries](./Aplicando_Responsividade/menu.md)
+
 
 
 ## [Voltar ao README Principal](../README.md)
